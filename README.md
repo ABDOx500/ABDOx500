@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying software engineering <br>👯 I’m looking to collaborate on real world projects<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently studying software engineering <br>👯 I’m looking to collaborate on real world projects<br>
 
 
 ## 🌐 Socials:
